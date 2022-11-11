@@ -1,40 +1,36 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9164712&assignment_repo_type=AssignmentRepo)
-# Assignment 1: Project Proposal and Repository Set-up
+# Team Name
+**Team Alpha**
 
-You will complete three assignments that will culminate in developing a full-stack web application. For this first assignment, you propose what type of app you will build and provide documentation via the readme file on what type of application you will build.  Listed below are the deliverables you will need to complete to satisfy the requirements of the assignment. After this course, your application will consist of the following components listed below.
+## Name of Application
+Best Buy?
 
-1. Routing Framework using Express.js
-2. Authentication and Authorization using Passport.js or Auth0
-3. Create, Retrieve, Update and Delete (CRUD) Functionality
-4. Utilize SQLite Database for persistent data store
-5. Functional and User-friendly front-end interface
-6. Hosting that allows users to access the site via domain name
+### Description of Application
+- Best Buy? is a website application that helps a user deciding about purchases.
+- When visiting the website you will be presented with different options for purchase decisions.
+- Options will include "impulse buys", "large purchases", and "investment purchases"
+- Filters will be added such as budget, bank balance, level of need, etc.
 
+### Desciption of Need and Purpose
+- The internet has made it easy to buy unnecessary product or services. The purpose of this web application is to help consumers avoid buying these unnecessary items. Additionaly, the web application will help you make the best choice by comparing and cross-referencing cost, specs, reviews, etc.
 
-## Deliverable 1 (10 Points)
-For this deliverable, you will need to modify the readme file (make sure to save these instructions in another location) that you are currently reading and address the following items below using a variety of permissible markdown syntax.
+### Intended Target Audience
+1. Social Media Users
+2. Those with impulsive tendancies
 
-- Provide your name or the team's name
-- Name of the application
-- Description of application *Describe how someone will use your application
-- Describe the need and purpose of the application
-- Intended target audience
-- Identify the various pages your application will have and describe what users will be able to accomplish
-- Identify three goals of the application
-- Identify tools/software you will use to complete the project. If you are completing the application as part of a team, you will also need to identify collaboration tools.
+### Pages and Description
+- Home/Landing Page: Navigation to various menu options. Information regarding sales. Login and contact. 
+- Decision Assistant Page: This is where you will be asked questions and details about the purchase you are trying to make. 
+- Information Page: This is where you can read about "need vs want" financial decisions and learn about consumer products. 
+- Contact Us/Live Chat Page: This is where you can reach us or start a live chat to get additonal help with the website.
 
-## Deliverable 2 (10 Points)
-For this deliverable, you will demonstrate your understanding of modules and JavaScript.  Listed below are tasks you will need to complete to satisfy the requirements for this deliverable.
-- Initialize NPM into your project folder and go through the process of creating a package.json file 
-- Create an index.js file and demonstrate your ability to declare and call functions
-- Search through the NPM marketplace and demonstrate your ability to add and use an external module. 
+### Goals 
+1. Help users make sound decisions on purchases.
+2. Help users save money.
+3. Educate users on everyday financial purchases no matter what size. 
 
-## Deliverable 3 (10 Points)
-For this deliverable, you will implement version control into your project folder.
-- Your remote repository will need to contain a minimum of 2 commits from each member or a minimum of 5 commits if completing the assignment individually.
-- You will need to add a create a .gitignore file that ignores the 
-A minimum of 2 commits from each member or a minimum of 5 commits if completing the assignment individually.
-
-
-## Submission Guidelines
-Your project folder will need to be submitted to the assigned GitHub repository provided to you by the instructor. In Sakai, you will need to submit the link to your repository by the due date and time listed in the write-up. Make sure you receive confirmation from Sakai that your assignment has been submitted.
+#### Tools & Software
+- GitHub
+- Visual Studio
+- Figma
+- Wireframe
+- Microsoft Teams
