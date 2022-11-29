@@ -3,28 +3,28 @@
 **Aisha Rana Henry Nichols Chris Davis**
 
 ## Name of Application
-Best Buy?
+Find Jym
 
 ### Description of Application
-- Best Buy? is a website application that helps a user deciding about purchases. It helps a user compare differnt purchasing options. 
+- Find Jym is an application that helps a user locate nearby gyms. 
 
 
 ### Desciption of Need and Purpose
--  The purpose of this web application is to help consumers avoid buying these unnecessary items. Additionaly, the web application will help you make the best choice by comparing and cross-referencing cost, specs, reviews, etc.
+-  The purpose of this web application is to help fitness enthusiasts locate their nearest fitness center, no matter where they are.
 
 ### Intended Target Audience
-1. Social Media Users
-2. Those with impulsive tendancies
+1. Health & Fitness Enthusiasts
+2. Those seeking to live a healthier lifestyle & self-improvement
 
 ### Pages and Description
-- Home/Landing Page: Navigation to various menu options. Information regarding sales. Login and contact. 
-- Decision Assistant Page: This is where you will be asked questions and details about the purchase you are trying to make. 
+- Home Page - dialog box to enter zipcode to locate nearby gyms
+- Information Page - offers information to different gyms, prices, and services 
 
 
 ### Goals 
-1. Help users make sound decisions on purchases.
-2. Help users save money.
-3. Educate users on everyday financial purchases no matter what size. 
+1. Provide users a list of nearby gyms
+2. Educate users on extra services that gym offers
+ 
 
 #### Tools & Software
 - GitHub
